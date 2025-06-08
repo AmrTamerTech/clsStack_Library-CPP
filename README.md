@@ -1,4 +1,4 @@
-# 🧱 clsStack_Library-cpp
+# 📌 clsStack_Library-cpp
 
 A reusable and extensible C++ stack implementation (`clsMyStack`) built using a doubly linked list via inheritance from a queue class. This generic class supports core stack operations along with additional list-based manipulations.
 
