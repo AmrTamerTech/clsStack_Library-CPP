@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\clsStack_Library-CPP\\Stack Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B472453-226C-4EB1-952E-3C49A296F4F5}|Stack Library\\Stack Library.vcxproj|D:\\clsStack_Library-CPP\\Stack Library\\Stack Library\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B472453-226C-4EB1-952E-3C49A296F4F5}|Stack Library\\Stack Library.vcxproj|solutionrelative:Stack Library\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B472453-226C-4EB1-952E-3C49A296F4F5}|Stack Library\\Stack Library.vcxproj|D:\\clsStack_Library-CPP\\Stack Library\\Stack Library\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B472453-226C-4EB1-952E-3C49A296F4F5}|Stack Library\\Stack Library.vcxproj|solutionrelative:Stack Library\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 408,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMyStack.h",
+              "DocumentMoniker": "D:\\clsStack_Library-CPP\\Stack Library\\Stack Library\\clsMyStack.h",
+              "RelativeDocumentMoniker": "Stack Library\\clsMyStack.h",
+              "ToolTip": "D:\\clsStack_Library-CPP\\Stack Library\\Stack Library\\clsMyStack.h",
+              "RelativeToolTip": "Stack Library\\clsMyStack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-08T23:38:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\clsStack_Library-CPP\\Stack Library\\Stack Library\\Source.cpp",
+              "RelativeDocumentMoniker": "Stack Library\\Source.cpp",
+              "ToolTip": "D:\\clsStack_Library-CPP\\Stack Library\\Stack Library\\Source.cpp",
+              "RelativeToolTip": "Stack Library\\Source.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-08T23:34:49.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
