@@ -42,11 +42,8 @@ The `clsMyStack` class extends `clsMyQueue<T>` and leverages a custom `clsDblLin
 
 ## 📚 Learning Outcomes
 ✅Implementing custom data structures with inheritance
-
 ✅Using doubly linked lists in C++
-
 ✅Applying generic programming with templates
-
 ✅Managing memory with pointer-based collections
 
 ---
